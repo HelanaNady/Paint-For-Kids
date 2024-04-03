@@ -7,7 +7,7 @@ Feel free to explore the documentation and source code for a deeper understandin
 
 <div align = "center" >
 
-## Drawing Mode
+## Drawing Mode 🖌️
 </div>
     
 
